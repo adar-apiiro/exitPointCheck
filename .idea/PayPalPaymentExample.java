@@ -1,8 +1,8 @@
 import com.paypal.api.payments;
-com.paypal.api.payments.Amount;
-com.paypal.api.payments.Details;
+import com.paypal.api.payments.Amount;
+import com.paypal.api.payments.Details;
 import com.paypal.base.rest.APIContext;
-com.paypal.api.payments.Transaction;
+import com.paypal.api.payments.Transaction;
 import com.paypal.api.payments.*;
 import com.paypal.base.rest.PayPalRESTException;
 import java.util.ArrayList;
