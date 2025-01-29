@@ -1,5 +1,5 @@
 import boto3
-
+import rails
 def list_s3_buckets():
     # Initialize an S3 client
     s3 = boto3.client('s3')
